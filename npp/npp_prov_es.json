@@ -1,0 +1,242 @@
+{
+  "npp": {
+    "general": {
+      "companyname": "Proveedor de ACME Salud",
+      "effectivedate": "Enero 01, 2014",
+      "website": "http://www.privacydemo.com",
+      "officername": "Juan Doe",
+      "officertitle": "Oficial de Privacidad",
+      "address": "123 Jane Drive, Demo city, State - 12345",
+      "phone": "(800) 123-4567",
+      "email": "juandoe@privacydemo.com"
+    },
+    "rights": {
+      "title": "Cuando se trata de su información médica, usted tiene ciertos derechos.",
+      "description": "Esta sección explica sus derechos y algunas de nuestras responsabilidades para ayudarlo.",
+      "items": [
+        {
+          "subtitle": "Obtener una copia en formato electrónico o en papel de su historial médico",
+          "content": [
+            "Puede solicitar que le muestren o le entreguen una copia en formato electrónico o en papel de su historial médico y otra información médica que tengamos de usted. Pregúntenos cómo hacerlo.",
+            "Le entregaremos una copia o un resumen de su información médica, generalmente dentro de 30 días de su solicitud. Podemos cobrar un cargo razonable en base al costo."
+          ],
+          "notes": [],
+          "examples": []
+        },
+        {
+          "subtitle": "Solicitarnos que corrijamos su historial médico",
+          "content": [
+            "Puede solicitarnos que corrijamos la información médica sobre usted que piensa que es incorrecta o está incompleta. Pregúntenos cómo hacerlo.",
+            "Podemos decir \"no\" a su solicitud, pero le daremos una razón por escrito dentro de 60 días."
+          ],
+          "notes": [],
+          "examples": []
+        },
+        {
+          "subtitle": "Solicitar comunicaciones confidenciales",
+          "content": [
+            "Puede solicitarnos que nos comuniquemos con usted de una manera específica (por ejemplo, por teléfono particular o laboral) o que enviemos la correspondencia a una dirección diferente.",
+            "Le diremos \"sí\" a todas las solicitudes razonables."
+          ],
+          "notes": [],
+          "examples": []
+        },
+        {
+          "subtitle": "Solicitarnos que limitemos lo que utilizamos o compartimos",
+          "content": [
+            "Puede solicitarnos que no utilicemos ni compartamos determinada información médica para el tratamiento, pago o para nuestras operaciones. No estamos obligados a aceptar su solicitud, y podemos decir \"no\" si esto afectara su atención.",
+            "Si paga por un servicio o artículo de atención médica por cuenta propia en su totalidad, puede solicitarnos que no compartamos esa información con el propósito de pago o nuestras operaciones con su aseguradora médica. Diremos \"sí\" a menos que una ley requiera que compartamos dicha información."
+          ],
+          "notes": [],
+          "examples": []
+        },
+        {
+          "subtitle": "Recibir una lista de aquellos con quienes hemos compartido información",
+          "content": [
+            "Puede solicitar una lista (informe) de las veces que hemos compartido su información médica durante los seis años previos a la fecha de su solicitud, con quién la hemos compartido y por qué.",
+            "Incluiremos todas las divulgaciones excepto aquellas sobre el tratamiento, pago y operaciones de atención médica, y otras divulgaciones determinadas (como cualquiera de las que usted nos haya solicitado hacer). Le proporcionaremos un informe gratis por año pero cobraremos un cargo razonable en base al costo si usted solicita otro dentro de los 12 meses."
+          ],
+          "notes": [],
+          "examples": []
+        },
+        {
+          "subtitle": "Obtener una copia de esta notificación de privacidad",
+          "content": [
+            "Puede solicitar una copia en papel de esta notificación en cualquier momento, incluso si acordó recibir la notificación de forma electrónica. Le proporcionaremos una copia en papel de inmediato."
+          ],
+          "notes": [],
+          "examples": []
+        },
+        {
+          "subtitle": "Elegir a alguien para que actúe en su nombre",
+          "content": [
+            "Si usted le ha otorgado a alguien la representación médica o si alguien es su tutor legal, aquella persona puede ejercer sus derechos y tomar decisiones sobre su información médica.",
+            "Nos aseguraremos de que la persona tenga esta autoridad y pueda actuar en su nombre antes de tomar cualquier medida."
+          ],
+          "notes": [],
+          "examples": []
+        },
+        {
+          "subtitle": "Presentar una queja si considera que se violaron sus derechos",
+          "content": [
+            "Si considera que hemos violado sus derechos, puede presentar una queja comunicándose con nosotros por medio de la información de la página 1.",
+            "Puede presentar una queja en la Oficina de Derechos Civiles del Departamento de Salud y Servicios Humanos enviando una carta a: Department of Health and Human Services, 200 Independence Avenue, S.W., Washington, D.C. 20201, llamando al 1-800-368-1019 o visitando <a href='http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/factsheets_spanish.html' class='bold' target='_blank'>www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/factsheets_spanish.html</a>, los últimos dos disponibles en español.",
+            "No tomaremos represalias en su contra por la presentación de una queja."
+          ],
+          "notes": [],
+          "examples": []
+        }
+      ]
+    },
+    "choices": {
+      "title": "Para determinada información médica, puede decirnos sus decisiones sobre qué compartimos.",
+      "description": "Si tiene una preferencia clara de cómo compartimos su información en las situaciones descritas debajo, comuníquese con nosotros. Díganos qué quiere que hagamos, y seguiremos sus instrucciones.",
+      "items": [
+        {
+          "subtitle": "En estos casos, tiene tanto el derecho como la opción de pedirnos que:",
+          "content": [
+            "Compartamos información con su familia, amigos cercanos u otras personas involucradas en su atención.",
+            "Compartamos información en una situación de alivio en caso de una catástrofe.",
+            "Incluyamos su información en un directorio hospitalario."
+          ],
+          "notes": [
+            "Si no puede decirnos su preferencia, por ejemplo, si se encuentra inconsciente, podemos seguir adelante y compartir su información si creemos que es para beneficio propio. También podemos compartir su información cuando sea necesario para reducir una amenaza grave e inminente a la salud o seguridad."
+          ],
+          "examples": []
+        },
+        {
+          "subtitle": "En estos casos, nunca compartiremos su información a menos que nos entregue un permiso por escrito:",
+          "content": [
+            "Propósitos de mercadeo.",
+            "Venta de su información.",
+            "La mayoría de los casos en que se comparten notas de psicoterapia."
+          ],
+          "notes": [],
+          "examples": []
+        },
+        {
+          "subtitle": "En el caso de recaudación de fondos:",
+          "content": [
+            "Podemos comunicarnos con usted por temas de recaudación, pero puede pedirnos que no lo volvamos a contactar."
+          ],
+          "notes": [],
+          "examples": []
+        }
+      ]
+    },
+    "uses": [
+      {
+        "title": "Por lo general, ¿cómo utilizamos o compartimos su información médica?",
+        "description": "Por lo general, utilizamos o compartimos su información médica de las siguientes maneras.",
+        "items": [
+          {
+            "subtitle": "Tratamiento",
+            "content": [
+              "Podemos utilizar su información médica y compartirla con otros profesionales que lo estén tratando."
+            ],
+            "notes": [],
+            "examples": [
+              "Un médico que lo está tratando por una lesión le consulta a otro doctor sobre su estado de salud general."
+            ]
+          },
+          {
+            "subtitle": "Dirigir nuestra organización",
+            "content": [
+              "Podemos utilizar y divulgar su información para llevar a cabo nuestra práctica, mejorar su atención y comunicarnos con usted cuando sea necesario."
+            ],
+            "notes": [],
+            "examples": [
+              "Utilizamos información médica sobre usted para administrar su tratamiento y servicios."
+            ]
+          },
+          {
+            "subtitle": "Facturar por sus servicios",
+            "content": [
+              "Podemos utilizar y compartir su información para facturar y obtener el pago de los planes de salud y otras entidades."
+            ],
+            "notes": [],
+            "examples": [
+              "Entregamos información acerca de usted a su plan de seguro médico para que éste pague por sus servicios."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "¿De qué otra manera podemos utilizar o compartir su información médica?",
+        "description": "Se nos permite o exige compartir su información de otras maneras (por lo general, de maneras que contribuyan al bien público, como la salud pública e investigaciones médicas). Tenemos que reunir muchas condiciones legales antes de poder compartir su información con dichos propósitos. Para más información, visite: <a href='http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/factsheets_spanish.html' class='bold' target='_blank'>www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/factsheets_spanish.html</a>, disponible en español.",
+        "items": [
+          {
+            "subtitle": "Ayudar con asuntos de salud pública y seguridad",
+            "content": [
+              "Podemos compartir su información médica en determinadas situaciones, como:<ul><li>Prevención de enfermedades.</li><li>Ayuda con el retiro de productos del mercado.</li><li>Informe de reacciones adversas a los medicamentos.</li><li>Informe de sospecha de abuso, negligencia o violencia doméstica.</li><li>Prevención o reducción de amenaza grave hacia la salud o seguridad de alguien.</li></ul>"
+            ],
+            "notes": [],
+            "examples": []
+          },
+          {
+            "subtitle": "Realizar investigaciones médicas",
+            "content": [
+              "Podemos utilizar o compartir su información para investigación de salud."
+            ],
+            "notes": [],
+            "examples": []
+          },
+          {
+            "subtitle": "Cumplir con la ley",
+            "content": [
+              "Podemos compartir su información si las leyes federales o estatales lo requieren, incluyendo compartir la información con el Departamento de Salud y Servicios Humanos si éste quiere comprobar que cumplimos con la Ley de Privacidad Federal."
+            ],
+            "notes": [],
+            "examples": []
+          },
+          {
+            "subtitle": "Responder a las solicitudes de donación de órganos y tejidos",
+            "content": [
+              "Podemos compartir su información médica con las organizaciones de procuración de órganos."
+            ],
+            "notes": [],
+            "examples": []
+          },
+          {
+            "subtitle": "Trabajar con un médico forense o director funerario",
+            "content": [
+              "Podemos compartir información médica con un oficial de investigación forense, médico forense o director funerario cuando un individuo fallece."
+            ],
+            "notes": [],
+            "examples": []
+          },
+          {
+            "subtitle": "Tratar la compensación de trabajadores, el cumplimiento de la ley y otras solicitudes gubernamentales",
+            "content": [
+              "Podemos utilizar o compartir su información médica:<ul><li>En reclamos de compensación de trabajadores.</li><li>A los fines de cumplir con la ley o con un personal de las fuerzas de seguridad.</li><li>Con agencias de supervisión sanitaria para las actividades autorizadas por ley.</li><li>En el caso de funciones gubernamentales especiales, como los servicios de protección presidencial, seguridad nacional y servicios militares.</li></ul>"
+            ],
+            "notes": [],
+            "examples": []
+          },
+          {
+            "subtitle": "Responder a demandas y acciones legales",
+            "content": [
+              "Podemos compartir su información médica en respuesta a una orden administrativa o de un tribunal o en respuesta a una citación."
+            ],
+            "notes": [],
+            "examples": []
+          }
+        ]
+      }
+    ],
+    "responsibilities": {
+      "content": [
+        "Estamos obligados por ley a mantener la privacidad y seguridad de su información médica protegida.",
+        "Le haremos saber de inmediato si ocurre un incumplimiento que pueda haber comprometido la privacidad o seguridad de su información.",
+        "Debemos seguir los deberes y prácticas de privacidad descritas en esta notificación y entregarle una copia de la misma.",
+        "No utilizaremos ni compartiremos su información de otra manera distinta a la aquí descrita, a menos que usted nos diga por escrito que podemos hacerlo. Si nos dice que podemos, puede cambiar de parecer en cualquier momento. Háganos saber por escrito si usted cambia de parecer.",
+        "Para mayor información, visite: <a href='http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/factsheets_spanish.html' class='bold' target='_blank'>www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/factsheets_spanish.html</a>, disponible en español."
+      ]
+    },
+    "changes": {
+      "content": [
+        "Podemos modificar los términos de esta notificación, y los cambios se aplicarán a toda la información que tenemos sobre usted. La nueva notificación estará disponible según se solicite, en nuestra oficina, y en nuestro sitio web."
+      ]
+    }
+  }
+}

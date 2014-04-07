@@ -1,0 +1,345 @@
+{
+	"npp":
+	{
+		"general":
+		{
+			"companyname":"ACME Health Plan",
+			"effectivedate":"January 01, 2014",
+			"website":"http://www.privacydemo.com",
+			"officername":"John Doe",
+			"officertitle":"Privacy officer",
+			"address":"123 Jane Drive, Demo city, State - 12345",
+			"phone":"(800) 123-4567",
+			"email":"johndoe@privacydemo.com"			
+		},
+		"rights":
+		{
+			"title":"When it comes to your health information, you have certain rights.",
+			"description":"This section explains your rights and some of our responsibilities to help you.",
+			"items":
+			[
+				{
+					"subtitle":"Get a copy of health and claims records",
+					"content":
+					[
+					"You can ask to see or get a copy of your health and claims records and other health information we have about you. Ask us how to do this.",
+					"We will provide a copy or a summary of your health and claims records, usually within 30 days of your request. We may charge a reasonable, cost-based fee."
+					],
+					"notes":
+					[
+					],
+					"examples":
+					[
+					]
+				},
+				{
+					"subtitle":"Ask us to correct health and claims records",
+					"content":
+					[
+					"You can ask us to correct your health and claims records if you think they are incorrect or incomplete. Ask us how to do this.",
+					"We may say \"no\" to your request, but we'll tell you why in writing within 60 days."
+					],
+					"notes":
+					[
+					],
+					"examples":
+					[
+					]
+				},
+				{
+					"subtitle":"Request confidential communications",
+					"content":
+					[
+					"You can ask us to contact you in a specific way (for example, home or office phone) or to send mail to a different address.",
+					"We will consider all reasonable requests, and must say \"yes\" if you tell us you would be in danger if we do not."
+					],
+					"notes":
+					[
+					],
+					"examples":
+					[
+					]
+				},
+				{
+					"subtitle":"Ask us to limit what we use or share",
+					"content":
+					[
+					"You can ask us <span class='bold'>not</span> to use or share certain health information for treatment, payment, or our operations.",
+					"We are not required to agree to your request, and we may say \"no\" if it would affect your care."
+					],
+					"notes":
+					[
+					],
+					"examples":
+					[
+					]
+				},
+				{
+					"subtitle":"Get a list of those with whom we've shared information",
+					"content":
+					[
+					"You can ask for a list (accounting) of the times we've shared your health information for six years prior to the date you ask, who we shared it with, and why.",
+					"We will include all the disclosures except for those about treatment, payment, and health care operations, and certain other disclosures (such as any you asked us to make). We'll provide one accounting a year for free but will charge a reasonable, cost-based fee if you ask for another one within 12 months."
+					],
+					"notes":
+					[
+					],
+					"examples":
+					[
+					]
+				},
+				{
+					"subtitle":"Get a copy of this privacy notice",
+					"content":
+					[
+					"You can ask for a paper copy of this notice at any time, even if you have agreed to receive the notice electronically. We will provide you with a paper copy promptly."
+					],
+					"notes":
+					[
+					],
+					"examples":
+					[
+					]
+				},
+				{
+					"subtitle":"Choose someone to act for you",
+					"content":
+					[
+					"If you have given someone medical power of attorney or if someone is your legal guardian, that person can exercise your rights and make choices about your health information.",
+					"We will make sure the person has this authority and can act for you before we take any action."
+					],
+					"notes":
+					[
+					],
+					"examples":
+					[
+					]
+				},
+				{
+					"subtitle":"File a complaint if you feel your rights are violated",
+					"content":
+					[
+					"You can complain if you feel we have violated your rights by contacting us using the contact information on this site.",
+					"You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1-877-696-6775, or visiting <a href='http://www.hhs.gov/ocr/privacy/hipaa/complaints/' class='bold' target='_blank'>www.hhs.gov/ocr/privacy/hipaa/complaints/</a>.",
+					"We will not retaliate against you for filing a complaint."
+					],
+					"notes":
+					[
+					],
+					"examples":
+					[
+					]
+				}
+				
+			]
+		},
+		"choices":
+		{
+			"title":"For certain health information, you can tell us your choices about what we share.",
+			"description":"If you have a clear preference for how we share your information in the situations described below, talk to us. Tell us what you want us to do, and we will follow your instructions.",
+			"items":
+			[
+				{
+					"subtitle":"In these cases, you have both the right and choice to tell us to:",
+					"content":
+					[
+					"Share information with your family, close friends, or others involved in payment for your care",
+					"Share information in a disaster relief situation"
+					],
+					"notes":
+					[
+					"If you are not able to tell us your preference, for example if you are unconscious, we may go ahead and share your information if we believe it is in your best interest. We may also share your information when needed to lessen a serious and imminent threat to health or safety."
+					],
+					"examples":
+					[
+					]
+				},
+				{
+					"subtitle":"In these cases we never share your information unless you give us written permission:",
+					"content":
+					[
+					"Marketing purposes",
+					"Sale of your information"
+					],
+					"notes":
+					[
+					],
+					"examples":
+					[
+					]
+				}
+			]
+		},
+		"uses":
+		[
+			{
+				"title":"How do we typically use or share your health information?",
+				"description":"We typically use or share your health information in the following ways.",
+				"items":
+				[
+					{
+						"subtitle":"Help manage the health care treatment you receive",
+						"content":
+						[
+						"We can use your health information and share it with professionals who are treating you."
+						],
+						"notes":
+						[
+						],
+						"examples":
+						[
+						"A doctor sends us information about your diagnosis and treatment plan so we can arrange additional services."
+						]
+					},
+					{
+						"subtitle":"Run our organization",
+						"content":
+						[
+						"We can use and disclose your information to run our organization and contact you when necessary.",
+						"<span class='bold'>We are not allowed to use genetic information to decide whether we will give you coverage and the price of that coverage.</span> This does not apply to long term care plans."
+						],
+						"notes":
+						[
+						],
+						"examples":
+						[
+						"We use health information about you to develop better services for you."
+						]
+					},
+					{
+						"subtitle":"Pay for your health services",
+						"content":
+						[
+						"We can use and disclose your health information as we pay for your health services."
+						],
+						"notes":
+						[
+						],
+						"examples":
+						[
+						"We share information about you with your dental plan to coordinate payment for your dental work."
+						]
+					},
+					{
+						"subtitle":"Administer your plan",
+						"content":
+						[
+						"We may disclose your health information to your health plan sponsor for plan administration."
+						],
+						"notes":
+						[
+						],
+						"examples":
+						[
+						"Your company contracts with us to provide a health plan, and we provide your company with certain statistics to explain the premiums we charge."
+						]
+					}
+				]
+			},
+			{
+				"title":"How else can we use or share your health information?",
+				"description":"We are allowed or required to share your information in other ways - usually in ways that contribute to the public good, such as public health and research. We have to meet many conditions in the law before we can share your information for these purposes. For more information see: <a href='http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/index.html' class='bold' target='_blank'>www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/index.html</a>.",
+				"items":
+				[
+					{
+						"subtitle":"Help with public health and safety issues",
+						"content":
+						[
+						"We can share health information about you for certain situations such as:<ul><li>Preventing disease</li><li>Helping with product recalls</li><li>Reporting adverse reactions to medications</li><li>Reporting suspected abuse, neglect, or domestic violence</li><li>Preventing or reducing a serious threat to anyone's health or safety</li></ul>"
+						],
+						"notes":
+						[
+						],
+						"examples":
+						[
+						]
+					},
+					{
+						"subtitle":"Do research",
+						"content":
+						[
+						"We can use or share your information for health research."
+						],
+						"notes":
+						[
+						],
+						"examples":
+						[
+						]
+					},
+					{
+						"subtitle":"Comply with the law",
+						"content":
+						[
+						"We will share information about you if state or federal laws require it, including with the Department of Health and Human Services if it wants to see that we're complying with federal privacy law."
+						],
+						"notes":
+						[
+						],
+						"examples":
+						[
+						]
+					},
+					{
+						"subtitle":"Respond to organ and tissue donation requests and work with a medical examiner or funeral director",
+						"content":
+						[
+						"We can share health information about you with organ procurement organizations.",
+						"We can share health information with a coroner, medical examiner, or funeral director when an individual dies."
+						],
+						"notes":
+						[
+						],
+						"examples":
+						[
+						]
+					},
+					{
+						"subtitle":"Address workers' compensation, law enforcement, and other government requests",
+						"content":
+						[
+						"We can use or share health information about you:<ul><li>For workers' compensation claims</li><li>For law enforcement purposes or with a law enforcement official</li><li>With health oversight agencies for activities authorized by law</li><li>For special government functions such as military, national security, and presidential protective services</li></ul>"
+						],
+						"notes":
+						[
+						],
+						"examples":
+						[
+						]
+					},
+					{
+						"subtitle":"Respond to lawsuits and legal actions",
+						"content":
+						[
+						"We can share health information about you in response to a court or administrative order, or in response to a subpoena."
+						],
+						"notes":
+						[
+						],
+						"examples":
+						[
+						]
+					}
+				]
+			}
+		],
+		"responsibilities":
+		{
+			"content":
+			[
+			"We are required by law to maintain the privacy and security of your protected health information.",
+			"We will let you know promptly if a breach occurs that may have compromised the privacy or security of your information.",
+			"We must follow the duties and privacy practices described in this notice and give you a copy of it.",
+			"We will not use or share your information other than as described here unless you tell us we can in writing. If you tell us we can, you may change your mind at any time. Let us know in writing if you change your mind.",
+			"For more information see: <a href='http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/noticepp.html' class='bold' target='_blank'>www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/noticepp.html</a>."
+			]
+		},
+		"changes":
+		{
+			"content":
+			[
+			"We can change the terms of this notice, and the changes will apply to all information we have about you. The new notice will be available upon request, on our web site, and we will mail a copy to you."
+			]
+		}
+	}
+}
